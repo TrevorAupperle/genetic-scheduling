@@ -1,0 +1,389 @@
+[
+  {
+    "name": "Greenwood Missionary Baptist Church (D)",
+    "day": 6,
+    "start": 600,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Zion Church (D)",
+    "day": 6,
+    "start": 705,
+    "approxDuration": 75,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Resourcing/Cleaning",
+    "day": 6,
+    "start": 1020,
+    "approxDuration": 120,
+    "slots": 1,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "The Edge at Central Dining (P)",
+    "day": 0,
+    "start": 600,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "Village Dining (P)",
+    "day": 0,
+    "start": 900,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 0,
+    "start": 960,
+    "approxDuration": 90,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "Auburn Family Meals (PL)",
+    "day": 0,
+    "start": 1050,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "Esperanza House (Auburn) (D)",
+    "day": 0,
+    "start": 1050,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Porter House (D)",
+    "day": 1,
+    "start": 480,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Wellness Kitchen (P)",
+    "day": 1,
+    "start": 600,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 1,
+    "start": 600,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 1,
+    "start": 810,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 1,
+    "start": 930,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "Meals on Wheels (D)",
+    "day": 1,
+    "start": 975,
+    "approxDuration": 60,
+    "slots": 5,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Esperanza House (Opelika) (D)",
+    "day": 1,
+    "start": 1020,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 1,
+    "start": 1050,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "Community Market (D)",
+    "day": 2,
+    "start": 480,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Backpack International (PL)",
+    "day": 2,
+    "start": 570,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "Meals on Wheels (D)",
+    "day": 2,
+    "start": 630,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "The Edge at Central Dining (P)",
+    "day": 2,
+    "start": 660,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 2,
+    "start": 840,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "Auburn Family Meals (PL)",
+    "day": 2,
+    "start": 1050,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "Timothy Manor (D)",
+    "day": 3,
+    "start": 570,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Wellness Kitchen (P)",
+    "day": 3,
+    "start": 660,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 3,
+    "start": 780,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "Village Dining (P)",
+    "day": 3,
+    "start": 870,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 3,
+    "start": 930,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "ACHR (D)",
+    "day": 3,
+    "start": 960,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Ease House",
+    "day": 3,
+    "start": 990,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Esperanza House (Auburn) (D)",
+    "day": 3,
+    "start": 1050,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "AUMC Food Pantry (D)",
+    "day": 4,
+    "start": 480,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "The Edge at Central Dining",
+    "day": 4,
+    "start": 540,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "AFM Office Hours",
+    "day": 4,
+    "start": 720,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "AFM Office Hours",
+    "day": 4,
+    "start": 780,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "AFM Office Hours",
+    "day": 4,
+    "start": 840,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "AFM Office Hours",
+    "day": 4,
+    "start": 900,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "Student Center/Lowder (P)",
+    "day": 4,
+    "start": 930,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "His Place (D)",
+    "day": 4,
+    "start": 960,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 3
+  },
+  {
+    "name": "Panera Bread (P)",
+    "day": 4,
+    "start": 1005,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 0
+  },
+  {
+    "name": "Auburn Family Meals (PL)",
+    "day": 4,
+    "start": 1050,
+    "approxDuration": 60,
+    "slots": 2,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "Our House (PL)",
+    "day": 4,
+    "start": 1050,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 2
+  },
+  {
+    "name": "Packaging/Recycling",
+    "day": 4,
+    "start": 1080,
+    "approxDuration": 60,
+    "slots": 3,
+    "assigned": [],
+    "type": 1
+  },
+  {
+    "name": "New Birth Ministry (PL)",
+    "day": 4,
+    "start": 1110,
+    "approxDuration": 60,
+    "slots": 1,
+    "assigned": [],
+    "type": 2
+  }
+]

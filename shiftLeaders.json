@@ -1,0 +1,1350 @@
+[
+  {
+    "name": "Ainsley Neil",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [[840, 1050]],
+      "Thursday": [],
+      "Friday": [[540, 720]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Alyssa Marotte",
+    "preference": [2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [
+        [570, 630],
+        [840, 960]
+      ],
+      "Wednesday": [[570, 630]],
+      "Thursday": [
+        [570, 630],
+        [840, 960]
+      ],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "America Mandeville",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [[690, 780]],
+      "Tuesday": [],
+      "Wednesday": [[690, 1080]],
+      "Thursday": [[840, 1020]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Andrew Manush",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[480, 540]],
+      "Wednesday": [[480, 690]],
+      "Thursday": [[480, 540]],
+      "Friday": [
+        [480, 690],
+        [960, 1320]
+      ],
+      "Saturday": [[480, 1320]],
+      "Sunday": [[480, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Asa Barnett",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [[840, 1320]],
+      "Thursday": [[750, 900]],
+      "Friday": [[840, 1320]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Bailee Price",
+    "preference": [2],
+    "availability": {
+      "Monday": [[1020, 1320]],
+      "Tuesday": [[900, 1320]],
+      "Wednesday": [],
+      "Thursday": [[900, 1320]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Barnett Maloney",
+    "preference": [1],
+    "availability": {
+      "Monday": [[480, 600]],
+      "Tuesday": [],
+      "Wednesday": [
+        [480, 600],
+        [900, 1320]
+      ],
+      "Thursday": [[690, 870]],
+      "Friday": [
+        [480, 600],
+        [780, 1320]
+      ],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Brooke Wilson",
+    "preference": [],
+    "availability": {
+      "Monday": [[1080, 1200]],
+      "Tuesday": [[1080, 1200]],
+      "Wednesday": [[1080, 1200]],
+      "Thursday": [[1080, 1200]],
+      "Friday": [[1080, 1200]],
+      "Saturday": [[720, 1020]],
+      "Sunday": [[720, 1020]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Caitlyn Wanalista",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [[480, 600]],
+      "Tuesday": [],
+      "Wednesday": [
+        [480, 600],
+        [840, 1320]
+      ],
+      "Thursday": [],
+      "Friday": [[840, 1020]],
+      "Saturday": [[480, 1320]],
+      "Sunday": [[480, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Caleb Alford",
+    "preference": [0],
+    "availability": {
+      "Monday": [[780, 1320]],
+      "Tuesday": [[840, 1320]],
+      "Wednesday": [[780, 900]],
+      "Thursday": [[840, 1320]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Caroline Browne",
+    "preference": [2],
+    "availability": {
+      "Monday": [[900, 1320]],
+      "Tuesday": [[1020, 1320]],
+      "Wednesday": [],
+      "Thursday": [[1020, 1320]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Carter Burleson",
+    "preference": [1, 2],
+    "availability": {
+      "Monday": [[480, 570]],
+      "Tuesday": [],
+      "Wednesday": [[480, 570]],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": [[480, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Chase Gill",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[870, 1320]],
+      "Tuesday": [[750, 1320]],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Chris Painter",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[780, 1260]],
+      "Tuesday": [[900, 1260]],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [
+        [540, 660],
+        [960, 1200]
+      ],
+      "Saturday": [[780, 1320]],
+      "Sunday": [[780, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Christopher Gillen",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[900, 1080]],
+      "Tuesday": [],
+      "Wednesday": [[900, 1080]],
+      "Thursday": [[840, 960]],
+      "Friday": [[720, 840]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Claire Congo",
+    "preference": [2],
+    "availability": {
+      "Monday": [[1020, 1320]],
+      "Tuesday": [
+        [480, 660],
+        [930, 1320]
+      ],
+      "Wednesday": [[960, 1080]],
+      "Thursday": [
+        [480, 660],
+        [930, 1320]
+      ],
+      "Friday": [[660, 1320]],
+      "Saturday": [],
+      "Sunday": [[720, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Connor Sisk",
+    "preference": [1, 2],
+    "availability": {
+      "Monday": [[600, 960]],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [[660, 1320]],
+      "Saturday": [[660, 960]],
+      "Sunday": [[660, 960]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Daniel Morris",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[780, 1320]],
+      "Tuesday": [[900, 1020]],
+      "Wednesday": [[900, 1320]],
+      "Thursday": [[1020, 1320]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Dainel Phillips",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [[480, 570]],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [[480, 540]],
+      "Friday": [[900, 1080]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Drew Johnston",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [[930, 1200]],
+      "Tuesday": [[810, 1200]],
+      "Wednesday": [
+        [600, 660],
+        [930, 1200]
+      ],
+      "Thursday": [[1080, 1140]],
+      "Friday": [[570, 660]],
+      "Saturday": [],
+      "Sunday": [[780, 1020]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Elise Fitzgerald",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[750, 870]],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Elizabeth Ledbetter",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [[1020, 1320]],
+      "Tuesday": [
+        [480, 600],
+        [840, 1095]
+      ],
+      "Wednesday": [],
+      "Thursday": [[840, 1320]],
+      "Friday": [[1020, 1320]],
+      "Saturday": [],
+      "Sunday": [[480, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Emma Hall",
+    "preference": [1],
+    "availability": {
+      "Monday": [[720, 1020]],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Emma Price",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [[930, 1050]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Ethan Oesterle",
+    "preference": [1],
+    "availability": {
+      "Monday": [[960, 1260]],
+      "Tuesday": [[600, 660]],
+      "Wednesday": [[720, 1320]],
+      "Thursday": [[600, 660]],
+      "Friday": [[1080, 1260]],
+      "Saturday": [[480, 840]],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Hadley Green",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[660, 960]],
+      "Wednesday": [],
+      "Thursday": [[660, 960]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Hannah Jones",
+    "preference": [1],
+    "availability": {
+      "Monday": [[900, 1320]],
+      "Tuesday": [[750, 1320]],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [[480, 840]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Hannah Phillips",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[780, 1320]],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [[480, 1320]],
+      "Sunday": [[480, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Hollis McMahon",
+    "preference": [2],
+    "availability": {
+      "Monday": [[780, 960]],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [],
+      "Friday": [[480, 960]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Hope Stearns",
+    "preference": [1],
+    "availability": {
+      "Monday": [[600, 840]],
+      "Tuesday": [],
+      "Wednesday": [[600, 840]],
+      "Thursday": [[480, 660]],
+      "Friday": [[600, 840]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Hudson Defee",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[900, 1020]],
+      "Tuesday": [[1050, 1320]],
+      "Wednesday": [],
+      "Thursday": [[1050, 1320]],
+      "Friday": [[870, 1320]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Ian Davis",
+    "preference": [0],
+    "availability": {
+      "Monday": [[780, 960]],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [[840, 1260]],
+      "Friday": [[960, 1140]],
+      "Saturday": [[840, 1140]],
+      "Sunday": [[840, 1140]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Isaiah Vande Griend",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [[720, 1200]],
+      "Thursday": [],
+      "Friday": [[720, 960]],
+      "Saturday": [[600, 900]],
+      "Sunday": [[600, 900]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Jack Clem",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[930, 1020]],
+      "Tuesday": [[600, 900]],
+      "Wednesday": [[930, 1020]],
+      "Thursday": [[600, 900]],
+      "Friday": [[930, 990]],
+      "Saturday": [],
+      "Sunday": [[720, 1020]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Jack Gaddy",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[840, 1320]],
+      "Tuesday": [[480, 660]],
+      "Wednesday": [
+        [615, 720],
+        [840, 1320]
+      ],
+      "Thursday": [
+        [480, 660],
+        [780, 900],
+        [1125, 1320]
+      ],
+      "Friday": [[615, 720]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Jack Schamban",
+    "preference": [2],
+    "availability": {
+      "Monday": [[870, 1035]],
+      "Tuesday": [[870, 930]],
+      "Wednesday": [[870, 1080]],
+      "Thursday": [[870, 930]],
+      "Friday": [[870, 1080]],
+      "Saturday": [[780, 960]],
+      "Sunday": [[780, 960]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Jackson Lefevre",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [
+        [720, 810],
+        [960, 1080]
+      ],
+      "Tuesday": [[540, 690]],
+      "Wednesday": [
+        [720, 810],
+        [960, 1080]
+      ],
+      "Thursday": [[540, 690]],
+      "Friday": [[540, 960]],
+      "Saturday": [[540, 960]],
+      "Sunday": [[540, 960]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Jake Gaertner",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [[1080, 1320]],
+      "Tuesday": [
+        [660, 840],
+        [1080, 1320]
+      ],
+      "Wednesday": [[660, 1320]],
+      "Thursday": [[660, 1320]],
+      "Friday": [[660, 840]],
+      "Saturday": [],
+      "Sunday": [[720, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Jensen Hammons",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [[840, 1200]],
+      "Tuesday": [
+        [480, 600],
+        [1140, 1200]
+      ],
+      "Wednesday": [[1140, 1200]],
+      "Thursday": [
+        [480, 600],
+        [1140, 1200]
+      ],
+      "Friday": [[840, 900]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Johanna Ehrhardt",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [
+        [540, 660],
+        [840, 1140]
+      ],
+      "Tuesday": [[480, 600]],
+      "Wednesday": [
+        [540, 660],
+        [840, 1140]
+      ],
+      "Thursday": [
+        [480, 600],
+        [780, 1140]
+      ],
+      "Friday": [
+        [540, 660],
+        [840, 1320]
+      ],
+      "Saturday": [[480, 1320]],
+      "Sunday": [[480, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "John Mumber",
+    "preference": [2],
+    "availability": {
+      "Monday": [[1140, 1320]],
+      "Tuesday": [],
+      "Wednesday": [[960, 1320]],
+      "Thursday": [[960, 1320]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Johnathan Dinkel",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [[870, 1200]],
+      "Tuesday": [],
+      "Wednesday": [[870, 1200]],
+      "Thursday": [[870, 1200]],
+      "Friday": [[870, 1080]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Juan Contreras",
+    "preference": [2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [[780, 960]],
+      "Friday": [],
+      "Saturday": [[660, 780]],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Jukaylyn Sullivan",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[900, 1020]],
+      "Tuesday": [[720, 900]],
+      "Wednesday": [[900, 1020]],
+      "Thursday": [[900, 1020]],
+      "Friday": [[900, 1020]],
+      "Saturday": [[720, 900]],
+      "Sunday": [[720, 900]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Jules Mauldin",
+    "preference": [2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[960, 1200]],
+      "Wednesday": [],
+      "Thursday": [[780, 1200]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Katherine Bradford",
+    "preference": [1],
+    "availability": {
+      "Monday": [[840, 1320]],
+      "Tuesday": [[480, 720]],
+      "Wednesday": [],
+      "Thursday": [[480, 720]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Katie Bailey",
+    "preference": [1, 2],
+    "availability": {
+      "Monday": [[480, 660]],
+      "Tuesday": [[600, 1320]],
+      "Wednesday": [
+        [480, 660],
+        [1020, 1320]
+      ],
+      "Thursday": [[600, 1320]],
+      "Friday": [[600, 660]],
+      "Saturday": [[720, 1320]],
+      "Sunday": [[720, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Katja Pietrass",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[600, 840]],
+      "Wednesday": [[780, 960]],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Kendall Stephens",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [
+        [570, 750],
+        [1020, 1200]
+      ],
+      "Tuesday": [
+        [540, 630],
+        [1020, 1200]
+      ],
+      "Wednesday": [
+        [570, 750],
+        [1020, 1200]
+      ],
+      "Thursday": [[540, 630]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Kristen Calvert",
+    "preference": [1],
+    "availability": {
+      "Monday": [[1080, 1200]],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [[600, 720]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Lauren Kuykendall",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [[975, 1320]],
+      "Tuesday": [[975, 1320]],
+      "Wednesday": [[975, 1320]],
+      "Thursday": [[975, 1320]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Lauren Thoma",
+    "preference": [1, 2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [
+        [660, 750],
+        [900, 1140]
+      ],
+      "Wednesday": [],
+      "Thursday": [[660, 750]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Lillie Pruitt",
+    "preference": [2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[930, 1035]],
+      "Wednesday": [[780, 960]],
+      "Thursday": [[570, 630]],
+      "Friday": [[480, 1320]],
+      "Saturday": [],
+      "Sunday": [[720, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Logan Sharp",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[840, 1320]],
+      "Tuesday": [],
+      "Wednesday": [[840, 1320]],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Lydia Bower",
+    "preference": [2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [[900, 1140]],
+      "Thursday": [],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Maddi Taylor",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[660, 960]],
+      "Tuesday": [[840, 1020]],
+      "Wednesday": [],
+      "Thursday": [[840, 1020]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Madeline Moore",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [[600, 720]],
+      "Tuesday": [[780, 900]],
+      "Wednesday": [[720, 930]],
+      "Thursday": [],
+      "Friday": [[600, 840]],
+      "Saturday": [[840, 1020]],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Maggie Beard",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [
+        [480, 540],
+        [930, 1080]
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        [480, 600],
+        [930, 1080]
+      ],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Maggie Horton",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [[660, 1320]],
+      "Tuesday": [[750, 1320]],
+      "Wednesday": [[660, 1320]],
+      "Thursday": [[750, 1320]],
+      "Friday": [[660, 1020]],
+      "Saturday": [],
+      "Sunday": [[630, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Maitland Coppock",
+    "preference": [0],
+    "availability": {
+      "Monday": [[780, 900]],
+      "Tuesday": [[480, 600]],
+      "Wednesday": [[780, 900]],
+      "Thursday": [[480, 600]],
+      "Friday": [[540, 660]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Matthew Thompson",
+    "preference": [1],
+    "availability": {
+      "Monday": [[900, 1080]],
+      "Tuesday": [],
+      "Wednesday": [[840, 1080]],
+      "Thursday": [],
+      "Friday": [[840, 1200]],
+      "Saturday": [[840, 1080]],
+      "Sunday": [[840, 1080]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Michael Chen",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[840, 1320]],
+      "Wednesday": [[900, 1320]],
+      "Thursday": [],
+      "Friday": [[780, 1320]],
+      "Saturday": [[480, 720]],
+      "Sunday": [[720, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Mike Kassels",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[960, 1080]],
+      "Tuesday": [],
+      "Wednesday": [[930, 1020]],
+      "Thursday": [],
+      "Friday": [[720, 840]],
+      "Saturday": [[600, 720]],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Molly Grubb",
+    "preference": [1],
+    "availability": {
+      "Monday": [[600, 720]],
+      "Tuesday": [[600, 660]],
+      "Wednesday": [],
+      "Thursday": [[600, 660]],
+      "Friday": [[540, 1320]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Morgan Hurston",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [
+        [780, 900],
+        [1020, 1320]
+      ],
+      "Tuesday": [],
+      "Wednesday": [[780, 1320]],
+      "Thursday": [],
+      "Friday": [[660, 1320]],
+      "Saturday": [[480, 1320]],
+      "Sunday": [[480, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Natalie Lamm",
+    "preference": [1],
+    "availability": {
+      "Monday": [[780, 1020]],
+      "Tuesday": [],
+      "Wednesday": [[780, 1020]],
+      "Thursday": [],
+      "Friday": [[600, 900]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Noah Hinton",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[900, 1050]],
+      "Tuesday": [],
+      "Wednesday": [[900, 1050]],
+      "Thursday": [],
+      "Friday": [[900, 1050]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Owen Harris",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [[1020, 1320]],
+      "Tuesday": [],
+      "Wednesday": [[1080, 1320]],
+      "Thursday": [[1020, 1320]],
+      "Friday": [[1020, 1320]],
+      "Saturday": [[480, 1320]],
+      "Sunday": [[480, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Paul Doan",
+    "preference": [0, 2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[570, 750]],
+      "Wednesday": [[720, 840]],
+      "Thursday": [[570, 750]],
+      "Friday": [[720, 840]],
+      "Saturday": [[720, 960]],
+      "Sunday": [[720, 960]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Phillip McCain",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[720, 1320]],
+      "Tuesday": [[1020, 1320]],
+      "Wednesday": [[720, 1320]],
+      "Thursday": [[1020, 1320]],
+      "Friday": [[720, 1320]],
+      "Saturday": [[480, 1320]],
+      "Sunday": [[480, 1320]]
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Quinn Johnston",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [[930, 1050]],
+      "Friday": [[870, 1020]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Raegan Fitzgerald",
+    "preference": [1],
+    "availability": {
+      "Monday": [
+        [600, 750],
+        [900, 1020]
+      ],
+      "Tuesday": [
+        [480, 720],
+        [840, 1020]
+      ],
+      "Wednesday": [[900, 960]],
+      "Thursday": [
+        [480, 720],
+        [840, 1020]
+      ],
+      "Friday": [
+        [600, 750],
+        [900, 1020]
+      ],
+      "Saturday": [[480, 1020]],
+      "Sunday": [[480, 1020]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Riley Allen",
+    "preference": [1],
+    "availability": {
+      "Monday": [[720, 840]],
+      "Tuesday": [[900, 1140]],
+      "Wednesday": [[720, 840]],
+      "Thursday": [],
+      "Friday": [[720, 960]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Riley Schuld",
+    "preference": [1],
+    "availability": {
+      "Monday": [[780, 1140]],
+      "Tuesday": [
+        [660, 780],
+        [1020, 1140]
+      ],
+      "Wednesday": [[780, 1140]],
+      "Thursday": [[660, 780]],
+      "Friday": [[780, 1080]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Rosie Sebastian",
+    "preference": [1, 2],
+    "availability": {
+      "Monday": [
+        [480, 600],
+        [900, 1320]
+      ],
+      "Tuesday": [
+        [900, 1020],
+        [1125, 1320]
+      ],
+      "Wednesday": [
+        [480, 600],
+        [1050, 1320]
+      ],
+      "Thursday": [[900, 1080]],
+      "Friday": [[720, 960]],
+      "Saturday": [[480, 1080]],
+      "Sunday": [[480, 1080]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Sally Mackey",
+    "preference": [1],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [[750, 990]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Sam Tankersley",
+    "preference": [2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[900, 1140]],
+      "Wednesday": [],
+      "Thursday": [[960, 1200]],
+      "Friday": [[900, 1080]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Sontai-Blu Boyd",
+    "preference": [0],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [[780, 1020]],
+      "Thursday": [],
+      "Friday": [[540, 660]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Sydney Mockaitis",
+    "preference": [0, 1, 2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[780, 900]],
+      "Wednesday": [[900, 1020]],
+      "Thursday": [
+        [600, 720],
+        [840, 930]
+      ],
+      "Friday": [[660, 720]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Trevor Aupperle",
+    "preference": [0, 1],
+    "availability": {
+      "Monday": [[1140, 1320]],
+      "Tuesday": [[960, 1320]],
+      "Wednesday": [[1140, 1320]],
+      "Thursday": [[960, 1320]],
+      "Friday": [[960, 1200]],
+      "Saturday": [],
+      "Sunday": [[720, 1320]]
+    },
+    "car": false,
+    "amount": 1
+  },
+  {
+    "name": "Reagan Boyett",
+    "preference": [2],
+    "availability": {
+      "Monday": [],
+      "Tuesday": [[960, 1320]],
+      "Wednesday": [[720, 1020]],
+      "Thursday": [[750, 810]],
+      "Friday": [],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": true,
+    "amount": 1
+  },
+  {
+    "name": "Ethan Tidwell",
+    "preference": [0],
+    "availability": {
+      "Monday": [[960, 1320]],
+      "Tuesday": [[1020, 1320]],
+      "Wednesday": [],
+      "Thursday": [[1020, 1320]],
+      "Friday": [[660, 1320]],
+      "Saturday": [],
+      "Sunday": []
+    },
+    "car": false,
+    "amount": 1
+  }
+]

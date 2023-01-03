@@ -1,0 +1,129 @@
+---------------------------------------------------------------------------
+|Greenwood Missionary Baptist Church (D)	| Sunday	| Slots: 2	| Type: 3
+|Assigned SLs: Morgan Hurston, Johanna Ehrhardt
+---------------------------------------------------------------------------
+|Zion Church (D)	| Sunday	| Slots: 1	| Type: 3
+|Assigned SLs: Andrew Manush
+---------------------------------------------------------------------------
+|Resourcing/Cleaning	| Sunday	| Slots: 1	| Type: 1
+|Assigned SLs: Phillip McCain
+---------------------------------------------------------------------------
+|The Edge at Central Dining (P)	| Monday	| Slots: 2	| Type: 0
+|Assigned SLs: Molly Grubb, Katie Bailey
+---------------------------------------------------------------------------
+|Village Dining (P)	| Monday	| Slots: 3	| Type: 0
+|Assigned SLs: Caleb Alford, Jack Gaddy, Hannah Phillips
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Monday	| Slots: 3	| Type: 1
+|Assigned SLs: Logan Sharp, Rosie Sebastian, Katherine Bradford
+---------------------------------------------------------------------------
+|Auburn Family Meals (PL)	| Monday	| Slots: 2	| Type: 2
+|Assigned SLs: Riley Schuld, Ethan Tidwell
+---------------------------------------------------------------------------
+|Esperanza House (Auburn) (D)	| Monday	| Slots: 1	| Type: 3
+|Assigned SLs: Claire Congo
+---------------------------------------------------------------------------
+|Porter House (D)	| Tuesday	| Slots: 1	| Type: 3
+|Assigned SLs: Katie Bailey
+---------------------------------------------------------------------------
+|Wellness Kitchen (P)	| Tuesday	| Slots: 3	| Type: 0
+|Assigned SLs: Ethan Oesterle, Jackson Lefevre, Katja Pietrass
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Tuesday	| Slots: 3	| Type: 1
+|Assigned SLs: Raegan Fitzgerald, Paul Doan, Maitland Coppock
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Tuesday	| Slots: 3	| Type: 1
+|Assigned SLs: Jack Clem, Jukaylyn Sullivan, Madeline Moore
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Tuesday	| Slots: 3	| Type: 1
+|Assigned SLs: Lauren Thoma, Bailee Price, Elizabeth Ledbetter
+---------------------------------------------------------------------------
+|Meals on Wheels (D)	| Tuesday	| Slots: 5	| Type: 3
+|Assigned SLs: Reagan Boyett, Sam Tankersley, Lauren Kuykendall, Chase Gill, Maitland Coppock
+---------------------------------------------------------------------------
+|Esperanza House (Opelika) (D)	| Tuesday	| Slots: 1	| Type: 3
+|Assigned SLs: Jules Mauldin
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Tuesday	| Slots: 3	| Type: 1
+|Assigned SLs: Kendall Stephens, Chris Painter, Drew Johnston
+---------------------------------------------------------------------------
+|Community Market (D)	| Wednesday	| Slots: 1	| Type: 3
+|Assigned SLs: Barnett Maloney
+---------------------------------------------------------------------------
+|Backpack International (PL)	| Wednesday	| Slots: 2	| Type: 2
+|Assigned SLs: Alyssa Marotte, Andrew Manush
+---------------------------------------------------------------------------
+|Meals on Wheels (D)	| Wednesday	| Slots: 1	| Type: 3
+|Assigned SLs: Jack Gaddy
+---------------------------------------------------------------------------
+|The Edge at Central Dining (P)	| Wednesday	| Slots: 2	| Type: 0
+|Assigned SLs: Maggie Horton, Hope Stearns
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Wednesday	| Slots: 3	| Type: 1
+|Assigned SLs: Jake Gaertner, Isaiah Vande Griend, Ainsley Neil
+---------------------------------------------------------------------------
+|Auburn Family Meals (PL)	| Wednesday	| Slots: 2	| Type: 2
+|Assigned SLs: John Mumber, Daniel Morris
+---------------------------------------------------------------------------
+|Timothy Manor (D)	| Thursday	| Slots: 2	| Type: 3
+|Assigned SLs: Andrew Manush, Lillie Pruitt
+---------------------------------------------------------------------------
+|Wellness Kitchen (P)	| Thursday	| Slots: 2	| Type: 0
+|Assigned SLs: Kristen Calvert, Sydney Mockaitis
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Thursday	| Slots: 3	| Type: 1
+|Assigned SLs: Maggie Horton, Juan Contreras, Asa Barnett
+---------------------------------------------------------------------------
+|Village Dining (P)	| Thursday	| Slots: 3	| Type: 0
+|Assigned SLs: Sally Mackey, Johnathan Dinkel, Maddi Taylor
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Thursday	| Slots: 3	| Type: 1
+|Assigned SLs: Quinn Johnston, Emma Price, Maggie Beard
+---------------------------------------------------------------------------
+|ACHR (D)	| Thursday	| Slots: 1	| Type: 3
+|Assigned SLs: John Mumber
+---------------------------------------------------------------------------
+|Ease House	| Thursday	| Slots: 1	| Type: 3
+|Assigned SLs: Jake Gaertner
+---------------------------------------------------------------------------
+|Esperanza House (Auburn) (D)	| Thursday	| Slots: 1	| Type: 3
+|Assigned SLs: Daniel Morris
+---------------------------------------------------------------------------
+|AUMC Food Pantry (D)	| Friday	| Slots: 1	| Type: 3
+|Assigned SLs: Katie Bailey
+---------------------------------------------------------------------------
+|The Edge at Central Dining	| Friday	| Slots: 3	| Type: 0
+|Assigned SLs: Hannah Jones, Maitland Coppock, Hollis McMahon
+---------------------------------------------------------------------------
+|AFM Office Hours	| Friday	| Slots: 1	| Type: 2
+|Assigned SLs: Natalie Lamm
+---------------------------------------------------------------------------
+|AFM Office Hours	| Friday	| Slots: 1	| Type: 2
+|Assigned SLs: Mike Kassels
+---------------------------------------------------------------------------
+|AFM Office Hours	| Friday	| Slots: 1	| Type: 2
+|Assigned SLs: Connor Sisk
+---------------------------------------------------------------------------
+|AFM Office Hours	| Friday	| Slots: 1	| Type: 2
+|Assigned SLs: Jack Schamban
+---------------------------------------------------------------------------
+|Student Center/Lowder (P)	| Friday	| Slots: 2	| Type: 0
+|Assigned SLs: Michael Chen, Jack Schamban
+---------------------------------------------------------------------------
+|His Place (D)	| Friday	| Slots: 1	| Type: 3
+|Assigned SLs: Riley Schuld
+---------------------------------------------------------------------------
+|Panera Bread (P)	| Friday	| Slots: 2	| Type: 0
+|Assigned SLs: Asa Barnett, Dainel Phillips
+---------------------------------------------------------------------------
+|Auburn Family Meals (PL)	| Friday	| Slots: 2	| Type: 2
+|Assigned SLs: Trevor Aupperle, Chris Painter
+---------------------------------------------------------------------------
+|Our House (PL)	| Friday	| Slots: 1	| Type: 2
+|Assigned SLs: Trevor Aupperle
+---------------------------------------------------------------------------
+|Packaging/Recycling	| Friday	| Slots: 3	| Type: 1
+|Assigned SLs: Ethan Tidwell, Owen Harris, Matthew Thompson
+---------------------------------------------------------------------------
+|New Birth Ministry (PL)	| Friday	| Slots: 1	| Type: 2
+|Assigned SLs: Lillie Pruitt
